@@ -1,4 +1,4 @@
-## Chaos Studios
+## Chaos Studios GS
 just a game studio based in Ireland, that's all.
 
 <!--
